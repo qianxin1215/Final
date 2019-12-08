@@ -5,12 +5,8 @@
 h1{
     text-align: center;
     margin: 40px;
-    
-    color: aquamarine;
-    
+    color: aquamarine;  
 }
-
-
 body{
     
     width:100%;
@@ -29,7 +25,6 @@ body{
     position:absolute;
     transition: all .5s;
 }
-
 div .out_pic{
     width:200px;
     height:200px;
